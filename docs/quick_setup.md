@@ -1,5 +1,5 @@
 # Quick setup
-The plugin has so many configuration options to deal with different circumstances. However, there are not so many settings that are actually used. Therefore, `The Setup wizard` has been implemented to simplify the initial setup.
+The plugin has many configuration options to handle different circumstances. However, typical setups only need to tweak a few of them. Therefore, `The Setup wizard` has been implemented to simplify the initial setup.
 
 Note: Subsequent devices are recommended to be set up using the `Copy setup URI` and `Open setup URI`.
 
